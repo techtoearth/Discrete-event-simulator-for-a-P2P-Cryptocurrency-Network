@@ -1,3 +1,7 @@
+CS765: Introduction of Blockchains, Cryptocurrencies, and Smart Contracts Project-I
+
+IIT Bombay
+
 Project Topic :  Simulation of a P2P Cryptocurrency Network
 
 Team Members:
